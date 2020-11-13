@@ -1,6 +1,5 @@
 Experiência em desenvolvimento e integração entre APIs, participação no desenvolvimento de sistemas desde a concepção do projeto, modelagem do banco de dados até o desenvolvimento do código, criação e gerenciamento de máquinas virtuais e containers e também construção de bots para automação de processos (web scrap/crawling). No momento estou focado nas linguagens Python e Java. Em ambas as linguagens tenho conhecimento dos principais frameworks de mercado.
 <br>
-<br/>
 
 <a href="https://discord.com/users/316011012337827840" target="_blank">
   <img align="left" alt="souluanf's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -24,12 +23,10 @@ Experiência em desenvolvimento e integração entre APIs, participação no des
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
-
 <br/>
 
 
 ### Principais Tecnologias
-<br/>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,7 +39,6 @@ Experiência em desenvolvimento e integração entre APIs, participação no des
 <br>
 
 ### Atividade
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
