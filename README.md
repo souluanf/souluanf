@@ -1,28 +1,28 @@
-Experiência em desenvolvimento e integração entre APIs, participação no desenvolvimento de sistemas desde a concepção do projeto, modelagem do banco de dados até o desenvolvimento do código, criação e gerenciamento de máquinas virtuais e containers e também construção de bots para automação de processos (web scrap/crawling). No momento estou focado nas linguagens Python e Java. Em ambas as linguagens tenho conhecimento dos principais frameworks de mercado.
-<br>
+Atualmente atuando como desenvolvedor Java.
 
+Minha principais habilidades:
 
-### Principais Tecnologias
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br>
+- Java, Python, Golang, Typescript, JavaScript;
+- Spring, SpringBoot, Jboss, Django, FastAPI, React;
+- Gradle, Maven, Poetry, Yarn, Npm
+- Kafka,RabbitMQ,SNS,SQS, Kinesis;
+- MSSQL, Oracle, MySQL, PostgreSQL;
+- MongoDB,Redis;
+- JUnit, Mockito, Selenium, Pyttest, Jest;
+- Git, Gitlab, CodeCommit;
+- Scrum, OKR
+- AWS, Azure, GCP;
+- Docker,K8s;
+- Linux, Mac,Windows
 
 ### Atividade
 
 <img src="https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
-
 ### Outros Links
+
 - 📝[Currículo](https://luanfernandes.dev/resume)
 - 🚧[Site](https://luanfernandes.dev)
-
 
 <a href="https://discord.com/users/316011012337827840" target="_blank">Discod</a><br/>
 <a href="https://twitter.com/souluanf" target="_blank">Twitter</a><br/>
