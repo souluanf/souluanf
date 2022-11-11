@@ -1,7 +1,5 @@
 Atualmente atuando como desenvolvedor Java.
 
-Minha principais habilidades:
-
 - Java, Python, Golang, Typescript, JavaScript;
 - Spring, SpringBoot, Jboss, Django, FastAPI, React;
 - Gradle, Maven, Poetry, Yarn, Npm
@@ -23,11 +21,3 @@ Minha principais habilidades:
 
 - 📝[Currículo](https://luanfernandes.dev/resume)
 - 🚧[Site](https://luanfernandes.dev)
-
-<a href="https://discord.com/users/316011012337827840" target="_blank">Discod</a><br/>
-<a href="https://twitter.com/souluanf" target="_blank">Twitter</a><br/>
-<a href="https://www.linkedin.com/in/souluanf/" target="_blank">Linkedin</a><br/>
-<a href="https://t.me/souluanf" target="_blank">Telegram</a><br/>
-<a href="https://www.instagram.com/souluanf/" target="_blank">Instagram</a><br/>
-<a href="https://api.whatsapp.com/send?phone=5511954875270" target="_blank">Whatsapp</a><br/>
-<a href="mailto:hello@luanfernandes.dev" target="_blank">Email</a><br/>
