@@ -29,6 +29,7 @@
 ![alt](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 --- 
+### ⚙️ Deploy 
 ![alt](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![alt](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![alt](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -44,4 +45,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souluanf&layout=compact)](https://github.com/souluanf?tab=repositories)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true" alt="Github Stats"></img>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true)](https://github.com/souluanf?tab=repositories)
+
+[//]: # (https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
+[//]: # (https://simpleicons.org)
