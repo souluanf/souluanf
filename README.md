@@ -39,6 +39,9 @@
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/categories/reference)
 
 ---
+[![wakatime](https://wakatime.com/badge/user/018bcc63-d735-428e-80b5-8dbebd89ca4f.svg)](https://wakatime.com/@018bcc63-d735-428e-80b5-8dbebd89ca4f)
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souluanf&layout=compact)](https://github.com/souluanf?tab=repositories)
 
 ---
