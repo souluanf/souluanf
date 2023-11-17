@@ -40,7 +40,6 @@
 
 ---
 [![wakatime](https://wakatime.com/badge/user/018bcc63-d735-428e-80b5-8dbebd89ca4f.svg)](https://wakatime.com/@018bcc63-d735-428e-80b5-8dbebd89ca4f)
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souluanf)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
