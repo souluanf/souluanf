@@ -1,53 +1,86 @@
-## 👨🏻‍💻 Software Engineer | Developer
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souluanf)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954875270)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/souluanf)
-[![WebSite](https://img.shields.io/badge/WebSite-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://luanfernandes.dev)
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.Ru&logoColor=white)](mailto:hello@luanfernandes.dev)
+<div align="center">
+
+<a href="https://luanfernandes.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Senior+Backend+Engineer+%F0%9F%96%A5%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Microservices;Clean+Architecture+%7C+DDD+%7C+TDD;7%2B+years+building+scalable+systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souluanf)
+[![Website](https://img.shields.io/badge/luanfernandes.dev-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://luanfernandes.dev)
+[![Email](https://img.shields.io/badge/contact@luanfernandes.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@luanfernandes.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511954875270)
+
+</div>
 
 ---
-### 💻  Technologies
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle)
-[![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)](https://quarkus.io/guides)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.1)
-[![FastApi](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+### Sobre mim
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc)
+Engenheiro de Software com **+7 anos de experiência** construindo sistemas escaláveis, modernos e de alto desempenho. Foco em qualidade contínua, código limpo e automação — com experiência em fintechs, e-commerce e grandes instituições financeiras. Também atuo como professor universitário e mentor.
 
 ---
-### 💾  Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
 
-[![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+### Stack
 
---- 
-### ⚙️ Deploy 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
-[![Kubernates](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+**Linguagens**
+
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/doc)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+
+**Frameworks**
+
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![Django](https://skillicons.dev/icons?i=django)](https://docs.djangoproject.com)
+
+**Bancos de Dados**
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/docs/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/)
+
+**Mensageria**
+
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/documentation/)
+[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/docs)
+
+**Cloud & DevOps**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/docs)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://learn.microsoft.com/azure)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/docs)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://developer.hashicorp.com/terraform/docs)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/actions)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://docs.gitlab.com)
 
 ---
-### ☁️ Cloud
-[![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/azure/?product=popular)
-[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs?hl=pt-br)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/categories/reference)
+
+### Certificações
+
+- AZ-900: Microsoft Azure Fundamentals
+- Google Cloud Computing Foundations Certificate
+- GitHub Foundations
+- Scrum Foundation Professional Certification (SFPC)
 
 ---
-[![wakatime](https://wakatime.com/badge/user/018bcc63-d735-428e-80b5-8dbebd89ca4f.svg)](https://wakatime.com/@018bcc63-d735-428e-80b5-8dbebd89ca4f)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souluanf)](https://github.com/anuraghazra/github-readme-stats)
+### Estatísticas
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souluanf&layout=compact)](https://github.com/souluanf?tab=repositories)
+<div align="center">
 
----
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true)](https://github.com/souluanf?tab=repositories)
+[![WakaTime](https://wakatime.com/badge/user/018bcc63-d735-428e-80b5-8dbebd89ca4f.svg)](https://wakatime.com/@018bcc63-d735-428e-80b5-8dbebd89ca4f)
 
-[//]: # (https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
-[//]: # (https://simpleicons.org)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=souluanf&layout=compact&theme=dark&hide_border=true)](https://wakatime.com/@souluanf)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souluanf&layout=compact&theme=dark&hide_border=true)](https://github.com/souluanf?tab=repositories)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/souluanf?tab=repositories)
+
+</div>
