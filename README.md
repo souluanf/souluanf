@@ -71,6 +71,20 @@ Engenheiro de Software com **+7 anos de experiência** construindo sistemas esca
 
 ---
 
+### Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souluanf/souluanf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souluanf/souluanf/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/souluanf/souluanf/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ### Estatísticas
 
 <div align="center">
